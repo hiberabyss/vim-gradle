@@ -1,0 +1,15 @@
+data/.hgflow.i
+data/compiler/gradle.vim.i
+data/.flow.i
+data/syntax/gradle.vim.i
+data/.hgtags.i
+data/LICENSE.txt.i
+data/ctags/gradle.ctags.i
+data/.hgignore.i
+data/ftplugin/tagbar.vim.i
+data/CHANGELOG.md.i
+data/ctags/groovy.ctags.i
+data/build.gradle.i
+data/after/syntax/groovy.vim.i
+data/README.md.i
+data/ftdetect/gradle.vim.i
